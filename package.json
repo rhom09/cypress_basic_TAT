@@ -1,0 +1,20 @@
+{
+  "name": "cypress_basic",
+  "version": "1.0.0",
+  "description": "Curso de cypress da escola TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Romilton Viana",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.2.0"
+  }
+}
